@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin",
+    "hash": "93fe7b43178e3e663b2d2509d1358684176355a15690d9df65fb987060ec1eee34e169fc073c1f3a047b60044986c674d3ef46a996c763027af6a8156b3a70a9",
+    "salt": "7466b5b251f4f465a27f8f6e1ca05511af5efd50513fc957f2898fcf724a62b3",
+    "role": "admin",
+    "createdAt": "2026-03-11T15:15:38.534Z",
+    "lastLogin": "2026-03-23T13:38:19.238Z"
+  },
+  {
+    "username": "Madhu",
+    "hash": "57356c076738700705163f987c1d40845e67d52016273666085ba132e1b011672880310b6bee61b7e19bfc922ee7323c9cc86949a5b6a192b0f3742fe3ab3b2f",
+    "salt": "93254f299e6883f6b78e8a5b0d5eb7e552c80c82a52dd9d57611aff3456b48a3",
+    "role": "viewer",
+    "createdAt": "2026-03-11T15:23:38.878Z",
+    "lastLogin": "2026-03-12T13:17:47.977Z"
+  }
+]

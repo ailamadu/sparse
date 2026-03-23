@@ -1,0 +1,8 @@
+{
+  "mode": "ssh",
+  "sshHost": "10.242.81.239",
+  "sshPort": 22,
+  "sshUser": "oracle",
+  "sshKey": "id_rsa",
+  "scriptDir": "/home/oracle/scripts/logs"
+}

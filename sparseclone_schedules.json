@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2,
+    "name": "Monthly Refresh",
+    "type": "create",
+    "enabled": false,
+    "cron": {
+      "min": "*",
+      "hour": "*",
+      "dom": "*",
+      "month": "*",
+      "dow": "*"
+    },
+    "profile": "test",
+    "confFile": "/data/profiles/test.conf",
+    "notifyEmail": ""
+  },
+  {
+    "id": 3,
+    "name": "Daily Refresh",
+    "type": "create",
+    "enabled": false,
+    "cron": {
+      "min": "0",
+      "hour": "2",
+      "dom": "*",
+      "month": "*",
+      "dow": "0"
+    },
+    "profile": "RIB",
+    "confFile": "/data/profiles/RIB.conf",
+    "scriptDir": "/home/oracle/scripts/logs",
+    "notifyEmail": ""
+  }
+]
